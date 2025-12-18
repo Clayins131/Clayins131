@@ -53,7 +53,7 @@ Applied AI in educational and industrial contexts
 ## 📫 Contact
 
 Email: claysps@outlook.com  
-LinkedIn: https://www.linkedin.com/in/clay-coulson-a4a11a27b  
+LinkedIn: https://www.linkedin.com/in/clayins131
 GitHub: https://github.com/Clayins131  
 
 ---
