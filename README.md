@@ -1,55 +1,68 @@
-# 👋 Hi, I’m Clayins131  
+# 👋 Hi, I’m Clayins131
 
-🚀 **Aspiring AI Engineer | Machine Learning & Cloud Computing Enthusiast**  
+🎓 Undergraduate in Artificial Intelligence & Data Science  
+🔬 Interested in Machine Learning, Audio Processing, and Data-Driven Systems
 
-I'm an undergraduate student majoring in **Artificial Intelligence** at Tianjin Normal University, passionate about **Machine Learning, Deep Learning, and Cloud Computing**. I love exploring AI applications in **audio processing, natural language understanding, and cloud-based AI solutions**.  
+I am an undergraduate student majoring in Artificial Intelligence and Data Science, currently studying at Leiden University with prior academic training at Tianjin Normal University. My interests focus on machine learning and deep learning, particularly in audio and speech processing, data analysis, and the development of practical research-oriented tools.
 
----
-
-## 🔧 Tech Stack  
-
-- **Programming:** Python, Java, C, JavaScript  
-- **AI/ML:** TensorFlow, PyTorch, Hugging Face, OpenCV  
-- **Audio Processing:** Librosa, FFmpeg, Praat  
-- **Data Science:** NumPy, Pandas, Matplotlib, Seaborn, Tableau  
-- **Databases:** MySQL, PostgreSQL, MongoDB, Firebase  
-- **DevOps & Cloud:** Docker, Kubernetes, Linux Server Management  
-- **Cloud Platforms:** AWS, Google Cloud, Azure  
+I enjoy building small to medium-scale prototypes that support data processing, annotation, and analysis in applied research settings.
 
 ---
 
-## 📌 Current Projects  
+## 🔧 Technical Background
 
-- 🎵 **AI-Powered Music Recommendation System**  
-  - Using **machine learning** to classify music based on audio features  
-  - Implementing **Spotify API** for real-time recommendations  
+Programming Languages  
+Python, C++, Java, JavaScript  
 
-- 🎙 **Speech Emotion Recognition with Deep Learning**  
-  - Utilizing **transformer-based models** to enhance emotion recognition  
-  - Integrating **real-time speech analysis** for interactive applications  
+Machine Learning & Data  
+PyTorch, TensorFlow, NumPy, Pandas, Scikit-learn  
 
-- ☁️ **Cloud Resource Optimization with Kubernetes**  
-  - Automating **cloud infrastructure scaling** using Kubernetes  
-  - Implementing **Prometheus monitoring** for real-time analytics  
+Audio & Signal Processing  
+Librosa, FFmpeg, Praat  
 
-🔗 **Check out my projects:** [GitHub Repositories](https://github.com/Clayins131)  
+Data Analysis & Visualization  
+Matplotlib, Seaborn, Tableau, Excel  
 
----
-
-## 📫 How to Reach Me  
-
-- **Email:** claysps@outlook.com  
-- **LinkedIn:** [Profile](https://www.linkedin.com/in/clay-coulson-a4a11a27b)  
-- **GitHub:** [Profile](https://github.com/Clayins131)  
+Systems & Tools  
+Git, Linux, Docker, Databricks, SQL  
 
 ---
 
-## 📊 GitHub Stats  
+## 📌 Selected Projects
 
-![Clayins131's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Clayins131&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Clayins131&layout=compact&theme=radical)  
+Music Recommendation & Audio Feature Analysis  
+A machine-learning-based music recommendation project that extracts audio features and performs classification and similarity analysis. The project explores feature engineering and supervised learning on real-world audio datasets, with optional integration of external music metadata APIs.
+
+Speech & Audio Processing Experiments  
+A collection of experiments related to speech and audio processing, including data preprocessing, feature extraction, and deep learning model exploration for recognition tasks. This work focuses on understanding how model design and data augmentation affect performance.
+
+Video Annotation Tool (Research Utility)  
+A lightweight local video annotation tool built with Python and Flask, designed to support timestamped labeling and CSV export for machine learning datasets. The tool is intended for small-scale research workflows.
+
+CSV Data Processing Tool (C++)  
+A lightweight C++ utility for parsing and analyzing large CSV files, focusing on performance, memory efficiency, and reusable data processing functions for research and analysis tasks.
+
+More projects are available at:  
+https://github.com/Clayins131
 
 ---
 
-💡 **Fun Fact:** I'm always exploring new AI applications and love working on open-source projects! Feel free to connect with me. 😊
+## 🎯 Research Interests
 
+Machine Learning and Deep Learning  
+Audio and Speech Processing  
+Data Analysis and Visualization  
+Research-oriented ML Tooling  
+Applied AI in educational and industrial contexts  
+
+---
+
+## 📫 Contact
+
+Email: claysps@outlook.com  
+LinkedIn: https://www.linkedin.com/in/clay-coulson-a4a11a27b  
+GitHub: https://github.com/Clayins131  
+
+---
+
+I am actively seeking summer research opportunities and collaborations related to applied machine learning and data-centric AI systems.
