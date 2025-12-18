@@ -29,13 +29,6 @@ Git, Linux, Docker, Databricks, SQL
 ---
 
 ## 📌 Selected Projects
-
-Music Recommendation & Audio Feature Analysis  
-A machine-learning-based music recommendation project that extracts audio features and performs classification and similarity analysis. The project explores feature engineering and supervised learning on real-world audio datasets, with optional integration of external music metadata APIs.
-
-Speech & Audio Processing Experiments  
-A collection of experiments related to speech and audio processing, including data preprocessing, feature extraction, and deep learning model exploration for recognition tasks. This work focuses on understanding how model design and data augmentation affect performance.
-
 Video Annotation Tool (Research Utility)  
 A lightweight local video annotation tool built with Python and Flask, designed to support timestamped labeling and CSV export for machine learning datasets. The tool is intended for small-scale research workflows.
 
