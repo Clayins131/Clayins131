@@ -1,61 +1,42 @@
-# 👋 Hi, I’m Clayins131
+# Clay Liang 梁珂玮
 
-🎓 Undergraduate in Artificial Intelligence & Data Science  
-🔬 Interested in Machine Learning, Audio Processing, and Data-Driven Systems
-
-I am an undergraduate student majoring in Artificial Intelligence and Data Science, currently studying at Leiden University with prior academic training at Tianjin Normal University. My interests focus on machine learning and deep learning, particularly in audio and speech processing, data analysis, and the development of practical research-oriented tools.
-
-I enjoy building small to medium-scale prototypes that support data processing, annotation, and analysis in applied research settings.
+Data Science & AI @ Leiden University → Management & Data Science @ TU Munich (2026)
 
 ---
 
-## 🔧 Technical Background
+I spent two years on a degree in China that called itself AI but was closer to EE. Then I got to Leiden, worked at Airbus and Lenovo on real industrial problems, spent a year at Tsinghua building speech recognition models — and came away with the same conclusion from every direction: the interesting work isn't in the middle of the stack. It's at the intersection of data and decisions.
 
-Programming Languages  
-Python, C++, Java, JavaScript  
-
-Machine Learning & Data  
-PyTorch, TensorFlow, NumPy, Pandas, Scikit-learn  
-
-Audio & Signal Processing  
-Librosa, FFmpeg, Praat  
-
-Data Analysis & Visualization  
-Matplotlib, Seaborn, Tableau, Excel  
-
-Systems & Tools  
-Git, Linux, Docker, Databricks, SQL  
+That's why I'm moving toward management rather than doubling down on code. Not because the engineering isn't interesting, but because the gap between what a model produces and what a decision-maker can act on is where most of the value gets lost — and that gap isn't a technical problem.
 
 ---
 
-## 📌 Selected Projects
-Video Annotation Tool (Research Utility)  
-A lightweight local video annotation tool built with Python and Flask, designed to support timestamped labeling and CSV export for machine learning datasets. The tool is intended for small-scale research workflows.
+## Projects
 
-CSV Data Processing Tool (C++)  
-A lightweight C++ utility for parsing and analyzing large CSV files, focusing on performance, memory efficiency, and reusable data processing functions for research and analysis tasks.
+**[Video Annotation Tool](https://github.com/Clayins131)**  
+Local video annotation tool built with Python and Flask. Supports timestamped labeling and CSV export for ML datasets. Built for small-scale research workflows where off-the-shelf tools are overkill.
 
-More projects are available at:  
-https://github.com/Clayins131
+**CSV Processing Utility (C++)**  
+Lightweight C++ tool for parsing and analyzing large CSV files. Focused on performance and memory efficiency — written because Python was too slow for the dataset size at the time.
 
 ---
 
-## 🎯 Research Interests
+## Skills
 
-Machine Learning and Deep Learning  
-Audio and Speech Processing  
-Data Analysis and Visualization  
-Research-oriented ML Tooling  
-Applied AI in educational and industrial contexts  
-
----
-
-## 📫 Contact
-
-Email: claysps@outlook.com  
-LinkedIn: https://www.linkedin.com/in/clayins131
-GitHub: https://github.com/Clayins131  
+Python · SQL · C++ · Java · JavaScript  
+PyTorch · TensorFlow · Scikit-learn · Pandas · NumPy  
+Databricks · Docker · Git · Linux  
+Tableau · Power BI · Matplotlib  
+Librosa · FFmpeg · Praat
 
 ---
 
-I am actively seeking summer research opportunities and collaborations related to applied machine learning and data-centric AI systems.
+## Currently
+
+- Finishing BSc at Leiden University (2025–2026)
+- Research Assistant at Tsinghua University (audio/speech processing)
+- Data Analyst Intern at Airbus Tianjin
+- Starting MSc Management & Data Science at TU Munich in 2026
+
+---
+
+claysps@outlook.com · [LinkedIn](https://www.linkedin.com/in/clayins131) · [GitHub](https://github.com/Clayins131)
