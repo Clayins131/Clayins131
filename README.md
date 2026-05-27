@@ -4,7 +4,7 @@ Incoming **BSc Management & Data Science (BMDS)** student at the **Technical Uni
 
 Currently studying AI & Data Science at Leiden University, and building at the boundary between data, tools, finance, and decisions.
 
-[Website](https://tuixue.nl) · [Blog](https://tuixue.nl/blog/) · [Fin Tools](https://tuixue.nl/fintools/) · [LinkedIn](https://www.linkedin.com/in/clay-coulson-a4a11a27b) · [Email](mailto:claysps@outlook.com)
+[Website](https://tuixue.nl) · [Blog](https://tuixue.nl/blog/) · [Fin Tools](https://tuixue.nl/fintools/) · [LinkedIn](https://www.linkedin.com/in/clayins131) · [Email](mailto:claysps@outlook.com)
 
 ---
 
